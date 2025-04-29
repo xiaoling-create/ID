@@ -1,0 +1,6 @@
+local WhitelistedPlayers = {
+    ["玩家用户名"] = true,
+    ["玩家用户名"] = true,
+    ["玩家用户名"] = true,
+    ["玩家用户名"] = true,
+}
